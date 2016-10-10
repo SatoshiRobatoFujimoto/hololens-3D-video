@@ -1,2 +1,2 @@
-# hololens-web-tv
-A basic Web TV for Hololens
+# hololens-3D-video
+A basic 3D Video for Hololens
