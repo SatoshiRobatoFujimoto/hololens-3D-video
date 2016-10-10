@@ -7,6 +7,7 @@ public class play : MonoBehaviour
     void Start()
     {
         GetComponent<Renderer>().material.mainTexture = movTexture;
+        movTexture.loop = true;
         movTexture.Play();
     }
 }
